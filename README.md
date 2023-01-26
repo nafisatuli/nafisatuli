@@ -2,8 +2,8 @@
 
 ### This Is Nafisa Hasan Tuli
 
-I am a junior software engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with a great passion. I am contributing to the frontend and backend of web applications.
-I put a lot of thought into the user experience, architecture, and code quality of the products I develop. My personal favourite is software development. I'm also a researcher. Machine Learning is another area of interest for me. I'm familiar with Machine Learning with Python. The IEEE has published my paper. My paper link: https://ieeexplore.ieee.org/document/9775900
+I am a software engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with a great passion. I am contributing to the backend and frontend of web applications.
+I put a lot of thought into the user experience, architecture, and code quality of the products I develop. My personal favourite is software development. I am also a researcher. Machine Learning is another area of interest for me. I am familiar with Machine Learning with Python. The IEEE has published my paper. My paper link: https://ieeexplore.ieee.org/document/9775900
 Thank you very much!
 
 Find me on [LinkedIn](https://www.linkedin.com/in/nafisa-hasan-174014165/)
