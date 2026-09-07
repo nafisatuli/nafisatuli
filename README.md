@@ -38,11 +38,3 @@ I care deeply about user experience, architecture, and code quality — and I lo
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" title="LaTeX" alt="LaTeX" width="40" height="40"/>
 </div>
-
-## 📈 GitHub Stats
-<a href="https://github.com/nafisatuli">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafisatuli&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact&cache_seconds=86400" />
-</a>
-<a href="https://github.com/nafisatuli">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nafisatuli&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&cache_seconds=86400" />
-</a>
