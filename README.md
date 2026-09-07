@@ -5,7 +5,7 @@ Machine learning engineer & full-stack software developer based in London. I'm a
 
 I care deeply about user experience, architecture, and code quality — and I love turning research ideas into things that ship.
 
-- 🔭 Working with a small team on **BitesizeIslam**, building automated, LLM-powered content-production tooling (Claude API, tool use, RAG).
+- 🔭 Working with a small team, building automated, LLM-powered content-production tooling (Claude API, tool use, RAG).
 - 🧠 Researching **ML, deep learning & NLP** — MSc dissertation on predictive modelling with ensemble and neural-network methods.
 - 📄 IEEE publication: *["Bengali Hate Speech Detection in Public Facebook Pages"](https://ieeexplore.ieee.org/document/9775900)* (ICISET 2022).
 - 💬 Ask me about backend architecture, data pipelines, or applied machine learning.
